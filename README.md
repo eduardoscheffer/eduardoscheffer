@@ -13,6 +13,13 @@
     <img width ='70' height ='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   </div>
   
+### Alguns conteúdos legais:
+- <a href ="https://github.com/eduardoscheffer/cs50-week6-pythonFilters">Blur and Grayscale filter using Python 🐍</a>
+- <a href ="https://github.com/eduardoscheffer/basic-JavaScript/blob/main/intermediate-algorithm-scripting/roman-numeral-converter-loop-within-a-loop.js">Roman numeral converter algorithm 🏛️</a>
+- <a href ="https://github.com/eduardoscheffer/basic-JavaScript/blob/main/intermediate-algorithm-scripting/palindrome-checker.js"> Palindrome checker 🎯</a>
+- <a href ="https://github.com/eduardoscheffer/curso-JavaScript-e-TypeScript-do-basico-ao-avancado/blob/main/funcoes-avancado/calculadora-com-funcao-construtora.html"> Calculator using constructor function 🧮</a>
+- <a href ="https://github.com/eduardoscheffer/curso-JavaScript-e-TypeScript-do-basico-ao-avancado/blob/main/objetos-e-prototypes-avancado/97-validando-um-cpf.js">Validate CPF  🆔</a>
+  
 ##
 
 ### :fire: Status :
