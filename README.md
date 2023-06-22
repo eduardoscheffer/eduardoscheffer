@@ -5,21 +5,24 @@
 </div>
 
   - 👨🏼‍🔬 **Eng. Químico**. Análise de efluentes e simulação de escoamentos gasosos utilizando Ansyx.
-  - 💻 Acadêmico do curso de **ADS** ULBRA - TORRES 
-  - 📚 Atualmente focado em desenvolver habilidades na programação utilizando:
-  <div style ="display: inline">
+  - 💻 Acadêmico do curso de **ADS** ULBRA - TORRES
+  - 💻 Desenvolvedor Backend, utilizando a plataforma .NET e C# como stack principais, dentro do projeto **LDS** - Laboratório de Software - do curso de ADS.
+  - 👨‍💻 Alguns dos projetos pessoais que tenho incluem o uso dessas tecnologias que venho estudando a algum tempo:
+  <div style='display: inline'>
     <img width ='70' height ='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img width ='70' height ='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img width ='70' height ='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+    <img width ='70' height ='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img width ='70' height ='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  </div>
+  <br>
+  - 📚 Atualmente focado em desenvolver habilidades na programação utilizando:
+  <br>
+  <div style ="display: inline">
+    <img width ='70' height ='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
     <img width ='70' height ='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img width ='70' height ='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
     <img width ='70' height ='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-    <img width ='70' height ='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img width ='70' height ='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  
-  
-  
-  
+    
   </div>
   
 ### Alguns conteúdos legais:
