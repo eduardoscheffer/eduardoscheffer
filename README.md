@@ -27,6 +27,7 @@
   
 ### Alguns conteúdos legais:
 - <a href ="https://github.com/eduardoscheffer/curso-JavaScript-e-TypeScript-do-basico-ao-avancado/tree/main/projetoagenda">Projeto Agenda -login e registro- utilizando Express e MongoDB 📞</a>
+- <a href ="https://github.com/eduardoscheffer/Relational-Database/tree/main/students-database">Banco de Dados de estudantes utilizando bash script pra automatizar a inserção de dados e PostgreSQL como database 🐘</a>
 - <a href ="https://github.com/eduardoscheffer/cs50-week6-pythonFilters">Blur and Grayscale filter using Python 🐍</a>
 - <a href ="https://github.com/eduardoscheffer/basic-JavaScript/blob/main/intermediate-algorithm-scripting/roman-numeral-converter-loop-within-a-loop.js">Roman numeral converter algorithm 🏛️</a>
 - <a href ="https://github.com/eduardoscheffer/basic-JavaScript/blob/main/intermediate-algorithm-scripting/palindrome-checker.js"> Palindrome checker 🎯</a>
