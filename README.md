@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-  - 👨🏼‍🔬 **Eng. Químico**. Análise de efluentes e simulação de escoamentos gasosos utilizando Ansyx.
+  - 👨🏼‍🔬 **Eng. Químico**. Análise de efluentes e simulação de escoamentos gasosos utilizando Ansys.
   - 💻 Acadêmico do curso de **ADS** ULBRA - TORRES
   - 💻 Desenvolvedor Backend, utilizando a plataforma .NET e C# como stack principais, dentro do projeto **LDS** - Laboratório de Software - do curso de ADS.
   - 👨‍💻 Alguns dos projetos pessoais que tenho incluem o uso dessas tecnologias que venho estudando a algum tempo:
