@@ -27,13 +27,13 @@
   </div>
   
 ### Alguns conteúdos legais:
+- <a href ="https://github.com/eduardoscheffer/spring-webservice"> Modelagem de um web service com cadastro de usuários e ordens de pedido desenvolvido em Java com framework Spring. ♨️ </a>
 - <a href ="https://github.com/eduardoscheffer/xadrez-console"> Jogo de Xadrez em C# - Projeto console desenvolvido para praticar conceitos de POO ♟️ </a>
 - <a href ="https://github.com/eduardoscheffer/desafioBackendPicPay">Desafio Backend PicPay - REST API desenvolvida em Java com Spring Boot 🏧</a>
 - <a href ="https://github.com/eduardoscheffer/curso-JavaScript-e-TypeScript-do-basico-ao-avancado/tree/main/projetoagenda">Projeto Agenda com Login e Registro utilizando Express e MongoDB 📞</a>
 - <a href ="https://github.com/eduardoscheffer/Relational-Database/tree/main/students-database"> Bash script pra automatizar a inserção de dados PostgreSQL 🐘</a>
 - <a href ="https://github.com/eduardoscheffer/cs50-week6-pythonFilters">Blur and Grayscale filter using Python 🐍</a>
 - <a href ="https://github.com/eduardoscheffer/basic-JavaScript/blob/main/intermediate-algorithm-scripting/roman-numeral-converter-loop-within-a-loop.js"> Algoritmo de conversão de numeros Romanos 🏛️</a>
-- <a href ="https://github.com/eduardoscheffer/curso-JavaScript-e-TypeScript-do-basico-ao-avancado/blob/main/funcoes-avancado/calculadora-com-funcao-construtora.html"> Calculadora utilizando funções construtoras 🧮</a>
 - <a href ="https://github.com/eduardoscheffer/curso-JavaScript-e-TypeScript-do-basico-ao-avancado/blob/main/objetos-e-prototypes-avancado/97-validando-um-cpf.js">Validar CPF 🆔</a>
   
 ##
